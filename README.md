@@ -10,9 +10,9 @@ When Training large datasets on Colab Notebook if the user leaves the screen idl
 	 4. Click on Load Unpacked Extension option and select the src folder.
 
 ## How To Use:
-1. Open your Colab notebook and connect to the runtime
-2. When you want to move away from your system and stop disconnection, click on the Extension and click on the "ON" button.
-3. Once you are done and you want to stop Auto Disconnection, just click on the extension icon and click on "STOP" button
+	1. Open your Colab notebook and connect to the runtime
+	2. When you want to move away from your system and stop disconnection, click on the Extension and click on the "ON" button.
+	3. Once you are done and you want to stop Auto Disconnection, just click on the extension icon and click on "STOP" button
 
 ### Improvements
 - User Interface Improvements
