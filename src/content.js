@@ -20,7 +20,7 @@ function msgRecieved(msg, sender, sendResponse){
 
 
 //Stop Disconnecting
-function StopDisconnect(interval=5) {
+function StopDisconnect(interval=10) {
     // convert interval minutes to seconds
     console.log('Enabled Auto Disconnect')
     interval = interval*60*100
